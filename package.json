@@ -1,0 +1,27 @@
+{
+  "name": "mvctask",
+  "version": "1.0.0",
+  "description": "mvc look through task set by AM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabilNiloy/ExerciseTask.git"
+  },
+  "author": "NN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NabilNiloy/ExerciseTask/issues"
+  },
+  "homepage": "https://github.com/NabilNiloy/ExerciseTask#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
